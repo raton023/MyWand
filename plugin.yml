@@ -1,0 +1,7 @@
+main: com.craftilandia.mywand.Main
+name: MagicalWand
+version: 2.0
+permissions:
+    magicalwand.use:
+        description: To have unlimited chunks claims.
+        default: op
